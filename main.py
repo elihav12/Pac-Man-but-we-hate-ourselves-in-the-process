@@ -1,1 +1,1 @@
-print("Hello World")
+class Enemy(Character):
